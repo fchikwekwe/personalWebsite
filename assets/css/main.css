@@ -2351,7 +2351,7 @@ input, select, textarea {
 				}
 
 				.image.phone .inner:before {
-					top: -1.375em;
+					top: -.375em;
 					margin-left: -1em;
 					width: 2em;
 					height: 0.25em;
@@ -2372,7 +2372,7 @@ input, select, textarea {
 				content: '';
 			}
 
-			.image.phone:before {
+			/* .image.phone:before {
 				height: 2.5em;
 				border-radius: 1em 1em 0 0;
 				border-bottom: 0;
@@ -2382,7 +2382,7 @@ input, select, textarea {
 				height: 3.5em;
 				border-radius: 0 0 1em 1em;
 				border-top: 0;
-			}
+			} */
 
 	.image {
 		box-shadow: 0 0 0 4px #ffffff, 0 0 0 5px #e6e6e6;

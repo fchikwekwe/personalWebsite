@@ -91,7 +91,7 @@
 					margin-left: -1em;
 					width: 2em;
 					height: 0.25em;
-					border-radius: 0.5em;
+					// border-radius: 0.5em;
 					background: _palette(accent1, border);
 				}
 
@@ -100,7 +100,7 @@
 					margin-left: -1em;
 					width: 2em;
 					height: 2em;
-					border-radius: 100%;
+					// border-radius: 100%;
 					border: solid (_size(border-width) * 2) _palette(accent1, border);
 				}
 			}
@@ -111,13 +111,13 @@
 
 			&:before {
 				height: 2.5em;
-				border-radius: 1em 1em 0 0;
+				// border-radius: 1em 1em 0 0;
 				border-bottom: 0;
 			}
 
 			&:after {
 				height: 3.5em;
-				border-radius: 0 0 1em 1em;
+				// border-radius: 0 0 1em 1em;
 				border-top: 0;
 			}
 		}
